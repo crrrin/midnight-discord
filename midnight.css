@@ -94,9 +94,9 @@
 	background-color: var(--accent-background) !important;
 }
 .expandedFolderIconWrapper-3RwQpD svg /* folder icons */,
-.strikethrough-2Kl6HF /* mute button strikethrough */ {
+/*.strikethrough-2Kl6HF mute button strikethrough {
 	color: var(--accent-color) !important;
-}
+}*/
 .divider-2rZFJK /* unread dividers */ {
 	--divider-color: var(--accent-color);
 }
